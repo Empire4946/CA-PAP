@@ -9,7 +9,7 @@ CA/PAP is a utility script that mainly focuses on preventing premium commands/ch
 ### How to use:
 - [x] Goto CA-PAP/Chooser
 
-- [x] Pick the bypasser matching your game
+- [x] Pick the bypasser corresponding to your script
 
 - [x] Copy the loadstring inside of there
 

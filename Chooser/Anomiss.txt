@@ -1,1 +1,2 @@
--- file directory
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Empire4946/CA-PAP/main/Bypasses/AnomissBypass.lua",true))()
+--// Returns SIGMA1010(Placeholder) and your name only

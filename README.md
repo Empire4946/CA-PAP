@@ -17,6 +17,11 @@ CA/PAP is a utility script that mainly focuses on preventing premium commands/ch
 
 - [x] **Voala! You can now use it without premium users abusing you.**
 
+#### Pictures:
+![image](https://user-images.githubusercontent.com/104152235/206764372-f628ed4a-fb7e-4521-b23c-688cb27b71d7.png)
+![image](https://user-images.githubusercontent.com/104152235/206764418-53d32395-97ca-46b0-a45a-62e64430f024.png)
+
+
 #### Privacy
 We value your privacy!
 

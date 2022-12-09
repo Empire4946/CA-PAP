@@ -7,15 +7,15 @@ Say less and use CA/PAP!
 CA/PAP is a utility script that mainly focuses on preventing premium commands/cheat admin commands from ever touching you.
 
 ### How to use:
-- [x] Goto CA-PAP/Chooser
+- [x] **Goto [CA-PAP/Chooser](https://github.com/Empire4946/CA-PAP/tree/main/Chooser)**
 
-- [x] Pick the bypasser corresponding to your script
+- [x] **Pick the bypasser corresponding to your script**
 
-- [x] Copy the loadstring inside of there
+- [x] **Copy the loadstring inside of there**
 
-- [x] Paste it above the script
+- [x] **Paste it above the script**
 
-- [x] Voala! You can now use it without premium users abusing you.
+- [x] **Voala! You can now use it without premium users abusing you.**
 
 #### Privacy
 We value your privacy!
